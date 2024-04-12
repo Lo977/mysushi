@@ -1,0 +1,32 @@
+{
+  "rolls": [
+    {
+      "id": "f2da",
+      "name": "Hand Roll",
+      "img_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSDYV0RZsRkp1cbit7aGWZX4VT_3LB54SqhVRyl4QiHH6SchgGgUDcuSylvFJVN3jNnXYY5gWeKCgzfFOnabS1C_B4kFPgIr8aG8mcx-W6ji4SjdwZl-wxxls_xnVKhVnjViY5JJ_8&usqp=CAc",
+      "description": "testing",
+      "likes": 1
+    },
+    {
+      "id": "acd2",
+      "name": "Hoso Maki",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeglG5QaXVvuBXHdqm5Fx7lJmzIF4XUXISDA&s",
+      "description": "yum",
+      "likes": 0
+    },
+    {
+      "id": "b26c",
+      "name": "Jumbo Maki",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeglG5QaXVvuBXHdqm5Fx7lJmzIF4XUXISDA&s",
+      "description": "California  crunchy tempura flakes. ",
+      "likes": 2
+    },
+    {
+      "id": "f9bb",
+      "name": "Guine",
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeglG5QaXVvuBXHdqm5Fx7lJmzIF4XUXISDA&s",
+      "description": "yum",
+      "likes": 5
+    }
+  ]
+}
