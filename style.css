@@ -8,3 +8,20 @@ header {
   background-color: blanchedalmond;
   padding: 20px;
 }
+#topDisplay {
+  overflow-x: auto;
+  background-color: rgb(200, 237, 252);
+  display: flex;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+}
+#topDisplay img {
+  max-width: 250px;
+  max-height: 150px;
+  margin: 5px;
+  /* object-fit: cover; */
+}
+#topDisplay button {
+  position: absolute;
+}
